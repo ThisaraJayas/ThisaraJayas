@@ -1,21 +1,27 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThisaraJayas)](https://github.com/ryo-ma/github-profile-trophy)
 ![Thisara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisaraJayas&show_icons=true&theme=radical)
 
-### Technologies
+## Languages and Technologies
 
 <h3>Languages</h3>
 
 <table>
   <tr>
-    <td><b>Python3</b></td>
-    <td><b>C</b></td>
+    <td><b>Java</b></td>
     <td><b>JavaScript</b></td>
-    <td><b>Solidity</b></td>
+    <td><b>Python</b></td>
+    <td><b>C++</b></td>
+    <td><b>PHP</b></td>
+  <td><b>Kotlin</b></td>
+    <td><b>NodeJs</b></td>
   </tr>
   <tr>
     <td><img src="PYTHON_IMAGE_URL" alt="Python3 Logo" width="100"/></td>
     <td><img src="C_IMAGE_URL" alt="C Logo" width="100"/></td>
     <td><img src="JAVASCRIPT_IMAGE_URL" alt="JavaScript Logo" width="100"/></td>
+    <td><img src="SOLIDITY_IMAGE_URL" alt="Solidity Logo" width="100"/></td>
+    <td><img src="SOLIDITY_IMAGE_URL" alt="Solidity Logo" width="100"/></td>
+    <td><img src="SOLIDITY_IMAGE_URL" alt="Solidity Logo" width="100"/></td>
     <td><img src="SOLIDITY_IMAGE_URL" alt="Solidity Logo" width="100"/></td>
   </tr>
 </table>
