@@ -1,5 +1,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThisaraJayas)](https://github.com/ryo-ma/github-profile-trophy)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisaraJayas)](https://github.com/anuraghazra/github-readme-stats)
 ![Thisara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisaraJayas&show_icons=true&theme=radical)
 
 ### Technologies
