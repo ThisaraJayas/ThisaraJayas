@@ -26,17 +26,15 @@
   </tr>
 </table>
 
-<h3>Best frameworks and main libraries for Python3</h3>
+<h3>frameworks and libraries</h3>
 
 <table>
   <tr>
-    <td><b>Pytorch</b></td>
-    <td><b>Selenium</b></td>
-    <td><b>Numpy</b></td>
-    <td><b>Pandas</b></td>
-    <td><b>Sklearn</b></td>
-    <td><b>Matplotlib</b></td>
-    <td><b>OpenCV</b></td>
+    <td><b>ReactJs</b></td>
+    <td><b>Spring Boot</b></td>
+    <td><b>ExpressJs</b></td>
+    <td><b>TensorFlow</b></td>
+    <td><b>Flutter</b></td>
   </tr>
   <tr>
     <td><img src="PYTORCH_IMAGE_URL" alt="Pytorch Logo" width="100"/></td>
@@ -44,8 +42,6 @@
     <td><img src="NUMPY_IMAGE_URL" alt="Numpy Logo" width="100"/></td>
     <td><img src="PANDAS_IMAGE_URL" alt="Pandas Logo" width="100"/></td>
     <td><img src="SKLEARN_IMAGE_URL" alt="Sklearn Logo" width="100"/></td>
-    <td><img src="MATPLOTLIB_IMAGE_URL" alt="Matplotlib Logo" width="100"/></td>
-    <td><img src="OPENCV_IMAGE_URL" alt="OpenCV Logo" width="100"/></td>
   </tr>
 </table>
 
@@ -53,12 +49,12 @@
 
 <table>
   <tr>
-    <td><b>Conda</b></td>
-    <td><b>Jupyter</b></td>
-    <td><b>Spark</b></td>
+    <td><b>MS SQL</b></td>
     <td><b>MySQL</b></td>
     <td><b>Postgres</b></td>
     <td><b>SQLite</b></td>
+    <td><b>H2</b></td>
+    <td><b>Jupyter</b></td>
   </tr>
   <tr>
     <td><img src="CONDA_IMAGE_URL" alt="Conda Logo" width="100"/></td>
@@ -74,18 +70,14 @@
 
 <table>
   <tr>
-    <td><b>NodeJS</b></td>
     <td><b>Git</b></td>
     <td><b>Docker</b></td>
-    <td><b>Pytest</b></td>
     <td><b>Swagger</b></td>
     <td><b>Postman</b></td>
   </tr>
   <tr>
-    <td><img src="NODEJS_IMAGE_URL" alt="NodeJS Logo" width="100"/></td>
     <td><img src="GIT_IMAGE_URL" alt="Git Logo" width="100"/></td>
     <td><img src="DOCKER_IMAGE_URL" alt="Docker Logo" width="100"/></td>
-    <td><img src="PYTEST_IMAGE_URL" alt="Pytest Logo" width="100"/></td>
     <td><img src="SWAGGER_IMAGE_URL" alt="Swagger Logo" width="100"/></td>
     <td><img src="POSTMAN_IMAGE_URL" alt="Postman Logo" width="100"/></td>
   </tr>
