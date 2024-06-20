@@ -10,11 +10,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisarajayas&show_icons=true&locale=en&layout=compact" alt="thisarajayas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisarajayas&show_icons=true&locale=en" alt="thisarajayas" /></p>
+![Thisara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisaraJayas&show_icons=true&theme=radical)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisarajayas&" alt="t
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThisaraJayas)](https://github.com/ryo-ma/github-profile-trophy)
-![Thisara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisaraJayas&show_icons=true&theme=radical)
 
 ## Languages and Technologies
 
