@@ -15,7 +15,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThisaraJayas&show_icons=true&theme=radical" alt="thisarajayas" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisarajayas&" alt="t
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisarajayas&" alt="thisarajayas" /></p>
+
 
 
 
