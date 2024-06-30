@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thisara Jayasinghe</h1>
+<h1>Hi 👋, I'm Thisara Jayasinghe</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThisaraJayas)](https://github.com/ryo-ma/github-profile-trophy)
 
