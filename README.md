@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ThisaraJayas&color=green)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThisaraJayas)](https://github.com/ryo-ma/github-profile-trophy)
 
 
