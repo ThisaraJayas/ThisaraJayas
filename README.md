@@ -38,7 +38,7 @@
     <td><img src="PYTHON_IMAGE_URL" alt="Python3 Logo" width="100"/></td>
     <td><img src="C_IMAGE_URL" alt="C Logo" width="100"/></td>
     <td><img src="JAVASCRIPT_IMAGE_URL" alt="JavaScript Logo" width="100"/></td>
-    <td><img src="SOLIDITY_IMAGE_URL" alt="Solidity Logo" width="100"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/> </td>
     <td><img src="SOLIDITY_IMAGE_URL" alt="Solidity Logo" width="100"/></td>
     <td><img src="SOLIDITY_IMAGE_URL" alt="Solidity Logo" width="100"/></td>
     <td><img src="SOLIDITY_IMAGE_URL" alt="Solidity Logo" width="100"/></td>
